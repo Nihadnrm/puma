@@ -1,0 +1,206 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body,html{
+    margin: 0px;
+    padding: 0px;
+}
+
+@media (max-width:600px){
+    #test{
+        flex-direction: column ! important;
+        
+    }
+}
+
+#ho:hover{
+transform: scale(1.1,1.1);
+}
+#bnr{
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://cdn4.singleinterface.com/files/banner_images/136292/4784_1697805074_sportsbra.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+   
+
+@media(max-width:600px){
+    #s{
+        align-items: center;
+    }
+}
+#ha{
+    color: rgb(248, 245, 245);
+    text-shadow: 1px 2px 2px black;
+}
+#sa{
+    box-shadow: 4px 4px 6px black;
+}
+@media(max-width:600px){
+    #e{
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: center;
+        
+    }
+    #x{
+        text-align: center;
+    }
+    
+    #n{
+        margin: 20px;
+      
+    }
+    #w{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 20rem;
+    }
+   
+#lo{
+    font-size: small;
+    
+}
+#pp{
+    font-size: smaller;
+}
+
+    #footer .row{
+        flex-direction: column;
+        max-height:100% ;
+        justify-content: center;
+        align-items: center;
+      
+        
+        
+
+    }
+    
+    
+    
+    #fu{
+font-size: smaller;
+flex-direction: column;
+align-content: center !important;
+justify-content: space-between !important; 
+margin-left: 3rem;
+
+    }
+    #bv{
+        margin-right: 9rem !important;
+    }
+    #nrm{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: start;
+    }
+ 
+  
+   
+}
+
+
+
+
+
+
+#b{
+    background-image: url("https://i.redd.it/o6f2qwf7ii1a1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+#l{
+    background-image: url("https://assets.ajio.com/medias/sys_master/root/20221215/lpER/639b3ff5f997ddfdbdd6f090/-473Wx593H-469043676-white-MODEL.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#o{
+    background-image: url("https://images.puma.net/images/091382/01/fnd/IND/w/800/h/800/");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#k{
+    background-image: url("https://assets.ajio.com/medias/sys_master/root/20240821/oTjl/66c5e8976f60443f311ad22d/-473Wx593H-469675890-black-MODEL.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#rm{
+    background-image: url("https://www.shoesforcrews.com/sfc3/images/rwd/dtc/plp/1600X300-PLP-PUMA-v2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mr{
+height: 30vh;
+background-image: url('https://image.isu.pub/181218062453-52faa78fa76a385d34c8e0eb55478727/jpg/page_1_thumb_large.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+#ll{
+    background-image: url("https://fablstyle.com/wp-content/uploads/2024/07/The-Puma-Mostro-Is-Heating-Up-For-Summer-800x500.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#oo{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/399028/01/mod03/fnd/IND/fmt/png/Easy-Rider-Vintage-Unisex-Sneakers");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#kk{
+    background-image: url("https://www.pumadventures.com/wp-content/uploads/2024/10/adventure-tours.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#xx{
+    background-image: url("https://store-in.puma.com/files/outlet/outlet_facebook_images/outlet_cover_photo/136292/Imbrahim_1_jpg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#ban{
+    height: 100%;
+    background-image: url('https://3.bp.blogspot.com/-7qyk0JSakNc/VedGaQW8r-I/AAAAAAAAqh4/nuLw38LHidY/s1600/puma-italy-euro-2016-away-kit-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+
+}
+#footerr{
+    height: 65vh;
+}
