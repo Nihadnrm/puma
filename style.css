@@ -62,7 +62,7 @@ transform: scale(1.1,1.1);
         display: flex;
         flex-direction: column;
         align-items: center;
-        height: 20rem;
+    
     }
    
 #lo{
@@ -127,6 +127,7 @@ margin-left: 3rem;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    
 
 
 }
